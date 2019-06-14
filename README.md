@@ -1,1 +1,1 @@
-# course-registration
+# ONLINE ADMISSION SYSTEM
